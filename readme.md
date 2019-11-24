@@ -6,4 +6,4 @@
 2、[quirksMode——PPK](https://www.quirksmode.org/)   
 3、[算法第四版官网](https://algs4.cs.princeton.edu/home/)   
 4、[优化与性能——MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/Performance)  
-5、[web开发指南——MDN]（https://developer.mozilla.org/zh-CN/docs/Web/Guide）
+5、[web开发指南——MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide)
