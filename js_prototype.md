@@ -20,7 +20,7 @@ function Person(){}
 >
 
 JavaScript的每个对象拥有一个原型对象，对象以其原型为模板、从原型继承方法和属性。原型对象也可能拥有原型，并从中继承方法和属性，一层一层、以此类推。这种关系常被称为**原型链 。(prototype chain)**
-![实例和原型和构造函数(2)](https://user-images.githubusercontent.com/16678988/69943739-915ab880-1520-11ea-98d6-02733b6ca849.jpg)
+![实例和原型和构造函数](./images/实例和原型和构造函数.jpg)
 person是Person的实例，它的隐式引用（内部属性)指向它的原型Person Prototype。
 Person Prototype的[[Prototype]]，指向它的构造函数Object的原型Object.prototype。
 以此形成链
