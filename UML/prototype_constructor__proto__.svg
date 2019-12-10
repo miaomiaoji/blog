@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="408px" preserveAspectRatio="none" style="width:303px;height:408px;" version="1.1" viewBox="0 0 303 408" width="303px" zoomAndPan="magnify"><defs><filter height="300%" id="f1a3w83imn00sb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#F8F8F8" filter="url(#f1a3w83imn00sb)" height="42.0459" style="stroke: #383838; stroke-width: 1.5;" width="56" x="9" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="35" x="19.5" y="57.752">Object</text><line style="stroke: #383838; stroke-width: 1.5;" x1="10" x2="64" y1="62.3887" y2="62.3887"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="44" x="15" y="77.8486">prototype</text><rect fill="#F8F8F8" filter="url(#f1a3w83imn00sb)" height="110.332" style="stroke: #383838; stroke-width: 1.5;" width="103" x="166.5" y="8"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="89" x="173.5" y="23.752">Object Prototype</text><line style="stroke: #383838; stroke-width: 1.5;" x1="167.5" x2="268.5" y1="28.3887" y2="28.3887"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="52" x="172.5" y="43.8486">constructor</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="57" x="172.5" y="57.5059">[[Prototype]]</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="90" x="172.5" y="71.1631">—————————</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="172.5" y="84.8203">hasOwnPrototype()</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="43" x="172.5" y="98.4775">toString()</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="69" x="172.5" y="112.1348">isPrototypeOf()</text><rect fill="#F8F8F8" filter="url(#f1a3w83imn00sb)" height="42.0459" style="stroke: #383838; stroke-width: 1.5;" width="56" x="6" y="204"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="14" y="219.752">Person</text><line style="stroke: #383838; stroke-width: 1.5;" x1="7" x2="61" y1="224.3887" y2="224.3887"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="44" x="12" y="239.8486">prototype</text><rect fill="#F8F8F8" filter="url(#f1a3w83imn00sb)" height="55.7031" style="stroke: #383838; stroke-width: 1.5;" width="108" x="164" y="197"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="171" y="212.752">Person Prototype</text><line style="stroke: #383838; stroke-width: 1.5;" x1="165" x2="271" y1="217.3887" y2="217.3887"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="52" x="170" y="232.8486">constructor</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="57" x="170" y="246.5059">[[Prototype]]</text><rect fill="#F8F8F8" filter="url(#f1a3w83imn00sb)" height="42.0459" style="stroke: #383838; stroke-width: 1.5;" width="69" x="183.5" y="332"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="39" x="198.5" y="347.752">person</text><line style="stroke: #383838; stroke-width: 1.5;" x1="184.5" x2="251.5" y1="352.3887" y2="352.3887"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="57" x="189.5" y="367.8486">[[Prototype]]</text><!--link Object to Object_Prototype--><path d="M65.0456,77.572 C72.2563,80.638 80.1337,83.42 87.75,85 C111.758,89.98 138.43,86.963 161.355,81.76 " fill="none" id="Object-&gt;Object_Prototype" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="166.489,80.545,156.8093,78.7277,161.6237,81.6978,158.6537,86.5122,166.489,80.545" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="88.75" y="81.8979">prototype</text><!--reverse link Object to Object_Prototype--><path d="M70.4949,63 C97.3438,63 135.483,63 166.254,63 " fill="none" id="Object&lt;-Object_Prototype" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="65.2813,63,74.2813,67,70.2813,63,74.2813,59,65.2813,63" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="65" x="83.25" y="56.8979">constructor</text><!--link Person to Person_Prototype--><path d="M62.1901,239.572 C69.4362,242.638 77.3507,245.42 85,247 C109.073,251.971 135.78,249.16 158.908,244.116 " fill="none" id="Person-&gt;Person_Prototype" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="163.786,243.007,154.1237,241.0992,158.9101,244.1142,155.8952,248.9006,163.786,243.007" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="86" y="243.8979">prototype</text><!--reverse link Person to Person_Prototype--><path d="M67.5551,225 C94.378,225 132.513,225 163.676,225 " fill="none" id="Person&lt;-Person_Prototype" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="62.3468,225,71.3468,229,67.3468,225,71.3468,221,62.3468,225" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="65" x="80.5" y="218.8979">constructor</text><!--reverse link Object_Prototype to Person_Prototype--><path d="M218,123.179 C218,148.443 218,176.684 218,196.836 " fill="none" id="Object_Prototype&lt;-Person_Prototype" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="218,118.169,214,127.169,218,123.169,222,127.169,218,118.169" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="72" x="219" y="163.8979">[[Prototype]]</text><!--reverse link Person_Prototype to person--><path d="M218,258.145 C218,281.2784 218,311.7827 218,331.6389 " fill="none" id="Person_Prototype&lt;-person" style="stroke: #383838; stroke-width: 1.0;"/><polygon fill="#383838" points="218,253.03,214,262.03,218,258.03,222,262.03,218,253.03" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="72" x="219" y="298.8979">[[Prototype]]</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="30" x="140" y="395.46">原型链</text><!--
+@startuml
+skinparam monochrome true 
+
+object Object{
+    prototype
+}
+object "Object Prototype" as Object_Prototype{
+    constructor
+    [[Prototype~]]
+    —————————
+    hasOwnPrototype()
+    toString()
+    isPrototypeOf()
+}
+object Person{
+    prototype
+}
+object "Person Prototype" as Person_Prototype{
+    constructor
+     [[Prototype~]]
+}
+object person{
+     [[Prototype~]]
+}
+
+Object -> Object_Prototype : prototype
+Person -> Person_Prototype : prototype
+Object <- Object_Prototype : constructor
+Person <- Person_Prototype : constructor
+Person_Prototype -up-> Object_Prototype : [[Prototype~]]
+person -up-> Person_Prototype : [[Prototype~]]
+center footer 原型链 
+@enduml
+
+PlantUML version 1.2019.09(Tue Aug 27 00:19:51 CST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 9.0.1+11
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
