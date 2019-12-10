@@ -46,5 +46,5 @@ console.log(person.constructor) //[Function: Person]
 ```
 ## 参考
 1、[ECMAScript规范——Object](https://www.ecma-international.org/ecma-262/6.0/#sec-objects)  
-2、《JavaScript高级程序设计》 
+2、《JavaScript高级程序设计》   
 3、[MDN——对象原型](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Object_prototypes)
