@@ -5,7 +5,7 @@
 **函数声明或者函数表达式创建函数时，就会自动为该函数创建一个prototype属性**，允许该函数作为构建函数
 >
 用代码和图示具体说明这个过程，ECMAScript规范——[函数声明](https://www.ecma-international.org/ecma-262/6.0/#sec-function-definitions-runtime-semantics-evaluation)
-![原型与原型链](https://user-images.githubusercontent.com/16678988/69939509-02976d00-151b-11ea-8253-55a4c8b9bb2a.jpg)
+![原型与原型链](https://github.com/Jamie0327/Blog/blob/master/images/prototypeChain.jpg)
 ```
 function Person(){}
 ```
@@ -45,6 +45,6 @@ var person = new Person()
 console.log(person.constructor) //[Function: Person]
 ```
 ## 参考
-1、[ECMAScript规范——Object](https://www.ecma-international.org/ecma-262/6.0/#sec-objects)
-2、《JavaScript高级程序设计》
+1、[ECMAScript规范——Object](https://www.ecma-international.org/ecma-262/6.0/#sec-objects)  
+2、《JavaScript高级程序设计》 
 3、[MDN——对象原型](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Object_prototypes)
