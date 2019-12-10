@@ -5,8 +5,7 @@
 **函数声明或者函数表达式创建函数时，就会自动为该函数创建一个prototype属性**，允许该函数作为构建函数
 >
 用代码和图示具体说明这个过程，ECMAScript规范——[函数声明](https://www.ecma-international.org/ecma-262/6.0/#sec-function-definitions-runtime-semantics-evaluation)   
-![原型与原型链图示](../images/prototypeChain.jpg)
-![原型与原型链](https://user-images.githubusercontent.com/16678988/70524801-ec278c00-1b80-11ea-943b-ff45fd0ffd3e.jpg)
+![原型与原型链图示](../images/prototypeChain.jpg)  
 ```
 function Person(){}
 ```
