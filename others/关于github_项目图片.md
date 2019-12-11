@@ -27,4 +27,8 @@
 
 ## 终极方法
 1、既然md文件中的图片被保存在不稳定的域名，那就学习使用markdown来编写UML图（我需要用到的图是UML类图，如果需要其他图，可以看看markdown是否可以实现）
+2、
 
+## DRY(Don't Repeat Yourself )——建模工具
+1、项目中使用各种UML图，设计一经修改，图也必须修改，如果使用画图工具，这将是一个总是repeat yourself的工作，如果使用plantUML类似的工具帮助管理类、时序等等UML，更容易维护和修改  
+2、这个是我收集的并且经过试验可行的参考——[enjoy](./plantuml_vscode_readme.md)
