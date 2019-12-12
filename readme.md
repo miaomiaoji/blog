@@ -1,5 +1,9 @@
 # 博客
 
+# 文章
+- [关于在线使用GitHub过慢以及图片显示的问题](../Blog/others/关于github_项目图片.md)
+- 建模工具——[资源以及使用](../Blog/others/建模工具.md)
+- 
 
 # 相关参考网站
 1、数据结构与算法动态可视化网站——[VisuAlgo.net](https://visualgo.net/zh)  
@@ -10,3 +14,13 @@
 6、[this_is_responsive——Broad Frost](http://bradfrost.github.io/this-is-responsive/)  
 7、[结城浩大大的采访](https://www.ituring.com.cn/article/216181)  
 8、[算法导论]()
+
+
+# 前端相关最新资源
+- YDKJSY——你不知道的js第二版--<https://github.com/getify/You-Dont-Know-JS/>
+- javascript weekly--<https://javascriptweekly.com/>
+- css weekly--<https://css-weekly.com/>
+- node weekly--<https://nodeweekly.com/issues>
+- fronted focus--<https://frontendfoc.us/issues>
+- <https://developers.google.com/web/>
+- <https://developer.mozilla.org/en-US/docs/Web/>
