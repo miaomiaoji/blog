@@ -12,7 +12,7 @@ function Person(){}
 上面这行代码的运行过程：
 - 函数声明首先生成Person函数；
 - 以Object.prototype为原型生成Person的原型对象（Person Prototype）,并给该原型对象增加属性constructor属性，属性指向Person函数；（PS：Person的原型对象（Person Prototype）是调用Object.create函数生成，Person Prorotype中[[Prorotype]]指向它的原型Object.prototype）
-- 给Person函数增加prototype属性，指向上一步生成的原型对象
+- 给Person增加prototype属性，指向上一步生成的原型对象
 
 ## 原型和原型链
 >Every object created by a constructor has an implicit reference (called the object’s prototype) to the value of its constructor’s "prototype" property. Furthermore, a prototype may have a non-null implicit reference to its prototype, and so on; this is called the prototype chain.——[出处](https://www.ecma-international.org/ecma-262/6.0/#sec-objects)
