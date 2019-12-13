@@ -14,7 +14,7 @@
 `"plantuml.exportOutDir": "./out-UML"`  
 4、plantUML[主题设置](https://plantuml.com/zh/skinparam)  
 5、[类图](https://plantuml.com/zh/class-diagram)  
-6、[对象图](https://plantuml.com/zh/object-diagram)(**js没有类一说，但是行为上又在模仿类，所以画类图还是对象图呢**)
+6、[对象图](https://plantuml.com/zh/object-diagram)(**js没有类一说，但是行为上又在模仿类，所以画类图还是对象图呢**)  
 7、[参考](http://ogom.github.io/draw_uml/plantuml/)(使用不同方向的箭头可以元素的位置，例如使用向上的箭头，则该元素会位于下方)
 
 
