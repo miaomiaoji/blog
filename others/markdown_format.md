@@ -307,4 +307,10 @@ Note right of China: China thinks\nabout it
 China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
+
+```diff
+hello ,I have to buy:
+- milk
++ yogurt
+```
 ### End
