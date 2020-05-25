@@ -1,8 +1,3 @@
-use hexo + github pages to build a blog
 
-
-## 
-
-## 参考
-- [build your blog by using githubPages + hexo + travis](https://lenshood.github.io/2019/04/02/Build-your-own-blog-site-by-using-GithubPages-Hexo-Travis/)
-- [hexo--github pages](https://hexo.io/docs/github-pages.html)
+- [use vue.js on github pages](https://dev.to/tiim/how-i-use-vue-js-on-github-pages-45np)
+- [use vuepress on github pages](https://www.jianshu.com/p/6e8c608f24c8)
