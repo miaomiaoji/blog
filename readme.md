@@ -17,6 +17,7 @@
 ## 浏览器
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - 深入理解现代浏览器——[奇舞周刊](https://blog.csdn.net/qiwoo_weekly/article/details/92808161)
+  - [英文原文](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 - 理解关键渲染路径--[w3cplus翻译](https://www.w3cplus.com/performance/understanding-the-critical-rendering-path.html)
 - 回流与重绘--[鑫空间](https://www.zhangxinxu.com/wordpress/2010/01/%e5%9b%9e%e6%b5%81%e4%b8%8e%e9%87%8d%e7%bb%98%ef%bc%9acss%e6%80%a7%e8%83%bd%e8%ae%a9javascript%e5%8f%98%e6%85%a2%ef%bc%9f/)
 - [深入理解浏览器缓存机制--浪里行舟博客](https://github.com/ljianshu/Blog/issues/23)
